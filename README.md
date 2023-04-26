@@ -18,7 +18,6 @@
 - 👔 I currently work as a Solutions Architect at GFT Technologies
 - 🎓 I have a Master's Degree in Solutions Architect from Impacta University
 - 🎓 I have a Bachelor's Degree in Computer Science from UniCarioca University
-- 🔎 I’m looking for help with Networks 😓
 - 💬 Ask me about Microservices, DevOps and Terraform
 - ✅ I love boxing 🥊, games 🎮 and travel 🛫
 
