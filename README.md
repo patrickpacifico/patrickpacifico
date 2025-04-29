@@ -13,12 +13,12 @@
       <img alt="Brazil" src="https://cdn-icons-png.flaticon.com/24/330/330167.png" disabled>
 </div>
 
-### I'm  _Patrick Pacífico_, a Solutions Architect focused on Microservices, DevOps and Serverless</h1>
+### I'm  _Patrick Pacífico_, a Solutions Architect focused on Serverless Computing, Microservices, AWS, DevOps and Terraform</h1>
 
 - 👔 I currently work as a Solutions Architect at GFT Technologies
 - 🎓 I have a Master's Degree in Solutions Architect from Impacta University
 - 🎓 I have a Bachelor's Degree in Computer Science from UniCarioca University
-- 💬 Ask me about Microservices, DevOps and Terraform
+- 💬 Ask me about Serverless Computing, Microservices, AWS, DevOps and Terraform
 - ✅ I love boxing 🥊, games 🎮 and travel 🛫
 
 ### Languages and Skills
